@@ -49,6 +49,7 @@ The data set comprised records with the following key columns:
 - **Savings Calculation:**  
   The percentage of income saved each month was derived to gauge saving habits over time.
 
+
 ### Categorical and Numerical Analysis
 
 - **Type Segmentation:**  
@@ -71,10 +72,13 @@ Using the cleaned and enriched dataset, a series of visualizations were created,
 1. **Overall Financial Summary:**  
    - **Metrics Displayed:** Total Income, Total Expenses, Savings Percentage, and Net Worth.  
    - **Insight:** Provides a quick snapshot of overall financial health and performance.
+![image](https://github.com/user-attachments/assets/e7dfba02-6028-453d-be0a-e70344f53130)
 
 2. **Detailed Transaction Table:**  
    - **Information:** Breaks down data by Type, Component, Date, Value, and Year.  
    - **Insight:** Answers “Where is each rupee coming from or going to?” by offering detailed transaction-level data.
+![image](https://github.com/user-attachments/assets/f1c193d5-99bc-451e-8432-d832234b8b80)
+![image](https://github.com/user-attachments/assets/2f845914-15f5-4d61-a080-842e4a3e6a9c)
 
 3. **Monthly Expense Trends:**  
    - **Visualization:** A line chart that plots expense categories (Bills, Groceries & Food, House Rent, Leisure, etc.) over time.  
@@ -83,14 +87,16 @@ Using the cleaned and enriched dataset, a series of visualizations were created,
 4. **Savings and Investments Over Time:**  
    - **Visualization:** A dedicated line chart for tracking contributions to various savings and investment vehicles (such as Mutual Funds, Fixed Deposits, and Liquid Cash).  
    - **Insight:** Shows how contributions to different instruments evolve, highlighting growth in emergency funds and investment portfolios.
-
+![image](https://github.com/user-attachments/assets/48df33cb-6f1c-436c-aaf1-2941cb5cdc4c)
 5. **Net Worth Trend Analysis:**  
    - **Visualization:** A single line chart tracking net worth from the beginning to the end of the period.  
    - **Insight:** Demonstrates overall wealth accumulation and any periods of significant change, whether dips or peaks.
+![image](https://github.com/user-attachments/assets/85784316-890e-4924-94a5-429f01c07b47)
 
 6. **Income vs. Expenses vs. Savings Ratio:**  
    - **Visualization:** A combined bar and line chart that displays total income, total expenses, and the savings percentage each month.  
    - **Insight:** Evaluates financial balance and the proportion of income being effectively saved.
+![image](https://github.com/user-attachments/assets/7b3b3c8e-2e7b-4b2c-aa8e-ed2f2ef05cbf)
 
 ---
 
