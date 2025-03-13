@@ -1,6 +1,7 @@
 ## Project Overview
 
 In this project, a personal finance dashboard was created to provide a clear, visual representation of financial health over time. The dashboard consolidates data on income, expenses, savings, and net worth, offering an in-depth look at spending patterns and financial trends from January 2018 to January 2021.
+![Finance_Dashboard](https://github.com/user-attachments/assets/6dac03a4-666c-4ebd-a753-bce5142b9d56)
 
 ### Purpose and Objectives
 
