@@ -77,17 +77,16 @@ Using the cleaned and enriched dataset, a series of visualizations were created,
 2. **Detailed Transaction Table:**  
    - **Information:** Breaks down data by Type, Component, Date, Value, and Year.  
    - **Insight:** Answers “Where is each rupee coming from or going to?” by offering detailed transaction-level data.
-![image](https://github.com/user-attachments/assets/f1c193d5-99bc-451e-8432-d832234b8b80)
-![image](https://github.com/user-attachments/assets/2f845914-15f5-4d61-a080-842e4a3e6a9c)
-
+     
 3. **Monthly Expense Trends:**  
    - **Visualization:** A line chart that plots expense categories (Bills, Groceries & Food, House Rent, Leisure, etc.) over time.  
    - **Insight:** Highlights shifts in spending patterns and identifies trends within individual expense categories.
-
+![image](https://github.com/user-attachments/assets/f1c193d5-99bc-451e-8432-d832234b8b80)
 4. **Savings and Investments Over Time:**  
    - **Visualization:** A dedicated line chart for tracking contributions to various savings and investment vehicles (such as Mutual Funds, Fixed Deposits, and Liquid Cash).  
    - **Insight:** Shows how contributions to different instruments evolve, highlighting growth in emergency funds and investment portfolios.
-![image](https://github.com/user-attachments/assets/48df33cb-6f1c-436c-aaf1-2941cb5cdc4c)
+![image](https://github.com/user-attachments/assets/2f845914-15f5-4d61-a080-842e4a3e6a9c)
+
 5. **Net Worth Trend Analysis:**  
    - **Visualization:** A single line chart tracking net worth from the beginning to the end of the period.  
    - **Insight:** Demonstrates overall wealth accumulation and any periods of significant change, whether dips or peaks.
